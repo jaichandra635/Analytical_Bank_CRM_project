@@ -32,11 +32,6 @@ Dashboard Structure
 Page 1 – Executive Overview
 Purpose: Provide a high-level summary of business health and churn distribution.
 
-Layout:
-KPI | KPI | KPI | KPI | KPI
-Churn by Geography | Customer Join Trend
-Churn by Age Group | Churn by Gender
-
 <img width="1307" height="720" alt="image" src="https://github.com/user-attachments/assets/7e7b26d2-7647-4159-b679-cb2e4f9817af" />
 
 Key Metrics:
