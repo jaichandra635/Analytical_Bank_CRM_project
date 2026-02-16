@@ -32,7 +32,8 @@ Dashboard Structure
 Page 1 – Executive Overview
 Purpose: Provide a high-level summary of business health and churn distribution.
 
-<img width="1307" height="720" alt="image" src="https://github.com/user-attachments/assets/7e7b26d2-7647-4159-b679-cb2e4f9817af" />
+<img width="1304" height="726" alt="image" src="https://github.com/user-attachments/assets/7c8f449f-ab84-414f-bb20-f379a0964f0b" />
+
 
 Key Metrics:
 - Total Customers
