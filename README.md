@@ -64,7 +64,8 @@ Tenure Group vs Churn
 Age Group vs Average Balance
 Salary vs Balance Distribution (Scatter Plot)
 
-<img width="1293" height="735" alt="image" src="https://github.com/user-attachments/assets/9f324071-1ee9-401f-a38d-bbe810aaf42a" />
+<img width="1301" height="732" alt="image" src="https://github.com/user-attachments/assets/0d54339f-ea88-4956-a8f2-ed1ee0f82f3f" />
+
 
 
 Page 4 – Strategic Insights and Recommendations
