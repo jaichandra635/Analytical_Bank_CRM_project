@@ -1,4 +1,4 @@
-#**Customer Churn and Retention Analytics Dashboard**#
+#Customer Churn and Retention Analytics Dashboard
 
 Project Overview
 This project presents a complete Customer Churn and Retention Analytics Dashboard built using MySQL and Power BI. The objective is to analyze customer behavior, identify churn drivers, segment high-risk customers, and provide strategic recommendations to improve retention and reduce revenue loss.
